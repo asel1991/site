@@ -1,27 +1,33 @@
 # Transwager
 A modern, responsive e-commerce website for premium sneakers built with HTML, CSS, and JavaScript.
 
-Features
-✔ Interactive Product Catalog – Filter by New Arrivals, Bestsellers
-✔ Shopping Cart – Add/remove items, adjust quantities, save in localStorage
-✔ Responsive Design – Works on mobile, tablet & desktop
-✔ Smooth Animations – Hover effects, modal transitions
-✔ Checkout Flow – Order form with payment options (simulated)
+# 🚀 Transwager - Premium Sneakers E-Shop
 
-Tech Stack
-Frontend: HTML5, CSS3 (Flexbox/Grid), JavaScript
+<div align="center">
+  
+![Transwager Hero Banner](https://i.imgur.com/Jf5qN0a.png)
 
-Storage: localStorage for cart persistence
 
-Design: Custom UI with CSS variables (:root)
+</div>
 
-No Frameworks – Pure vanilla JS for performance
+## ✨ Features
 
-Project Structure
+| Feature | Description |
+|---------|-------------|
+| **🛒 Interactive Cart** | Add/remove items, quantity control, localStorage persistence |
+| **📱 Fully Responsive** | Mobile-first design (320px → 4K) |
+| **🔥 Bestsellers Slider** | Touch-friendly product carousel |
+| **🎨 CSS Animations** | Smooth hover effects and transitions |
+
+## 🛠 Tech Stack
+
+```bash
+Frontend: HTML5 | CSS3 | JavaScript
+## Project Structure
 transwager/
+├── assets/
+│   ├── css/
+│   │   └── style.css   # All styles
+│   └── images/         # Product photos
 ├── index.html          # Main page
-├── styles/             # CSS files
-│   └── main.css        # All styles (no preprocessor)
-├── images/             # Product & branding assets
-└── script.js           # All JavaScript logic
-
+└── script.js           # All JS logic
