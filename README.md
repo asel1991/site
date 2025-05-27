@@ -4,9 +4,7 @@ A modern, responsive e-commerce website for premium sneakers built with HTML, CS
 # 🚀 Transwager - Premium Sneakers E-Shop
 
 <div align="center">
-  
-![Transwager Hero Banner](https://![Uploading Screen Shot 2025-05-27 at 07.01.08.png…]()
-)
+
 
 
 </div>
